@@ -1,0 +1,24 @@
+* Purpose
+The purpose of this meet up is to provide a venue to discuss and
+improve emacs experiences with emphasis on integration with Aurora
+specific workflows and tooling.  
+* Organization
+- Meeting frequency: monthly
+- Meeting format: one or two topics led by a team member
+- Meeting duration: 30 min
+- Meeting notes: taken in emacs of course and on a github [[https://github.com/abe-aurora/emacs-meetup][repo]]. 
+
+* Resources
+** [[https://docs.google.com/forms/d/1-bLh8W8Zicp7vFzD8vgOMRpiU0PTOc9bQv8OQiMKg6U/edit#responses][Poll]] from <2024-05-31 Fri>
+* Meetings
+** <2024-05-31 Fri>
+- Agenda
+  - brief introductions
+  - go over poll
+  - next meeting topic
+- Next meeting
+  - Clint to go over his C++ configuration
+** <2024-06-28 Fri>
+- Meeting Agenda
+  - Take pulse again on meeting time/frequency.  Friday or Wed?
+  - Clint presentation on emacs configuration
